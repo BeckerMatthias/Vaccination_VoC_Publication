@@ -6,7 +6,7 @@ The code in the file "Analysis_submission.R" used to generate the graphs used in
 
 R version used was version 3.6.1 (2019-07-05) -- "Action of the Toes" within RStudio 1.2.5001
 
-Required are an input folder at "/input" with the following files containing annotated measurement data for the different assays employed:
+Required are an input folder at "/Input" with the following files containing annotated measurement data for the different assays employed:
 "ACE2_Results.csv"
 "ELISA_Saliva_Results.csv"
 "MULTICOV-AB_Results.csv"
